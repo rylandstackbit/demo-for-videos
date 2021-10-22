@@ -12,7 +12,7 @@ sections:
     contentWidth: large
     contentAlignHoriz: center
     contentAlignVert: middle
-    title: This is all happening with just a Nextjs repo
+    title: Let's get personal about your health with a plan that works for you
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
