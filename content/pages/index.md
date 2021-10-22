@@ -13,11 +13,11 @@ sections:
     contentAlignHoriz: center
     contentAlignVert: middle
     title: Let's get personal about your health with a plan that works for you
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Newtopia is offered free of charge as part of the \[company] health and
+      well-being program. Work with your personal Inspirator to achieve better
+      overall mental and physical health aligned with your unique personality
+      and lifestyle.
     actions:
       - type: Button
         label: Get Started
