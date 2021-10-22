@@ -20,7 +20,7 @@ sections:
       and lifestyle.
     actions:
       - type: Button
-        label: Get Started
+        label: Sign Up Now
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
