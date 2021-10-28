@@ -12,7 +12,7 @@ sections:
     contentWidth: large
     contentAlignHoriz: center
     contentAlignVert: middle
-    title: Let's get personal about your health with a plan that works for you
+    title: This Is A Big Hero Headline
     text: >
       Newtopia is offered free of charge as part of the \[company] health and
       well-being program. Work with your personal Inspirator to achieve better
